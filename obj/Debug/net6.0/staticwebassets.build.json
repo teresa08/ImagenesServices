@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "az/dL3bvWeImHrXTyoVzsF12xhaoPbgaJH4+a8F8BVE=",
+  "Source": "Api_Imagenes",
+  "BasePath": "_content/Api_Imagenes",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Api_Imagenes\\wwwroot",
+      "Source": "Api_Imagenes",
+      "ContentRoot": "C:\\Users\\18094\\source\\repos\\Api_Imagenes\\Api_Imagenes\\wwwroot\\",
+      "BasePath": "_content/Api_Imagenes",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
